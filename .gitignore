@@ -1,0 +1,10 @@
+.settings
+.project
+.classpath
+**/.classpath
+
+**/.settings/*
+
+/target/
+/.vscode/*
+/.idea/*

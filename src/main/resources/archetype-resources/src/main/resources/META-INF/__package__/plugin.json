@@ -1,0 +1,33 @@
+{
+	"name": "${artifactId}",
+	"description": "Plugin for ${artifactId}",
+	"author": "${groupId}",
+	"date": "2023-07-21",
+	"version": "${version}",
+	"module": "${groupId}.${artifactId}",
+	"hasAdditionalProperties": false,
+	"properties": [
+		{
+			"name": "property1",
+			"type": "string",
+			"required": true,
+			"languages": {
+				"en": "Property 1",
+				"es": "Propiedad 1",
+				"chi": "属性1"
+			}
+		},
+		{
+			"name": "property2",
+			"type": "string",
+			"default": "value2",
+			"required": false,
+			"languages": {
+				"en": "Property 2",
+				"es": "Propiedad 2",
+				"chi": "属性2"
+			}
+		}
+	],
+	"connectors": []
+}
