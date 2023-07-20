@@ -13,6 +13,4 @@ public class PropertiesValidator implements PropertiesValidatorService {
 		return new PropertiesValidatorResponse(false, new HashMap<>());
 	}
 
-
-
 }

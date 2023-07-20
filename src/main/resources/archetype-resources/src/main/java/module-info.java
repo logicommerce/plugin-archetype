@@ -6,4 +6,5 @@ module ${package} {
 
 	provides com.logicommerce.sdk.services.DefinitionService
 		with ${package}.Definition;
+
 }
