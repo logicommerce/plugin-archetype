@@ -6,5 +6,8 @@ module ${package} {
 
 	provides com.logicommerce.sdk.services.DefinitionService
 		with ${package}.Definition;
+		
+	provides com.logicommerce.sdk.services.PropertiesValidatorService
+		with ${package}.PropertiesValidator;
 
 }
