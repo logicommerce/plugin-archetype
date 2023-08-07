@@ -8,7 +8,7 @@
 	"hasAdditionalProperties": false,
 	"properties": [
 		{
-			"name": "property1",
+			"identifier": "property1",
 			"type": "string",
 			"required": true,
 			"languages": {
@@ -18,7 +18,7 @@
 			}
 		},
 		{
-			"name": "property2",
+			"identifier": "property2",
 			"type": "string",
 			"default": "value2",
 			"required": false,
