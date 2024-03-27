@@ -20,7 +20,7 @@
 		<maven.compiler.plugin.version>3.8.0</maven.compiler.plugin.version>
 		<maven-surefire-plugin.version>3.1.2</maven-surefire-plugin.version>
 
-		<com.logicommerce.sdk-version>1.3.4</com.logicommerce.sdk-version>
+		<com.logicommerce.sdk-version>1.3.5</com.logicommerce.sdk-version>
 		<com.logicommerce.utilities-version>1.0.3</com.logicommerce.utilities-version>
 
 		<junit-platform-surefire-provider.version>1.3.2</junit-platform-surefire-provider.version>
