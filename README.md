@@ -16,7 +16,7 @@ Template for create Plugins for LogiCommerce Platform.
 mvn archetype:generate \
     -DarchetypeGroupId=com.logicommerce \
     -DarchetypeArtifactId=plugin-archetype \
-    -DarchetypeVersion=1.2.1 \
+    -DarchetypeVersion=2.0.0 \
     -DgroupId=your.project.groupId \
     -DartifactId=your-project-artifactId \
     -Dversion=your-project-version
